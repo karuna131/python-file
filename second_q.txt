@@ -1,0 +1,22 @@
+Hkclkm python se apne computer jo bhi koi files hain,
+unko padh sakte hain aur saath hi saath nayi files bana ke unme data bhi daal sakte hain.
+Isse hum bahot interesting cheezein kar sakte hain. Jaise hum user se kuch python mein input 
+leke, uss data se ek HTML file bana sakte hain. Aur bhi bahot saare interesting kaam kar 
+sakte hain. Inn examples se hum python se files ko padhna aur nayi files banana seekhenge.
+Abhi tak aap jo bhi programs bana rahe the, woh sirf kuch terminal pe print kar dete hain.
+Lekin python ka use kar ke hum apne computer pe files ke andar ke data ko padh sakte hain, 
+aur nayi files bana ke unme data save bhi kar sakte hain. Iss example mein hum ek file khol 
+ke uss file ka data nikalenge. Iss ke liye ek people1.txt naam ki file mein neeche diye hue 
+text ko save karo. Iss file ko same folder mein save karo jisme aap apne python ka code 
+likhne waali file ko save karoge. Ab yeh code likh kar python file chalao:Hum python se
+apne computer jo bhi koi files hain, unko padh sakte hain aur saath hi saath nayi files 
+bana ke unme data bhi daal sakte hain. Isse hum bahot interesting cheezein kar sakte hain. 
+Jaise hum user se kuch python mein input leke, uss data se ek HTML file bana sakte hain. 
+Aur bhi bahot saare interesting kaam kar sakte hain. Inn examples se hum python se files
+ko padhna aur nayi files banana seekhenge. Abhi tak aap jo bhi programs bana rahe the, 
+woh sirf kuch terminal pe print kar dete hain. Lekin python ka use kar ke hum apne 
+computer pe files ke andar ke data ko padh sakte hain, aur nayi files bana ke unme data 
+save bhi kar sakte hain. Iss example mein hum ek file khol ke uss file ka data nikalenge.
+Iss ke liye ek people1.txt naam ki file mein neeche diye hue text ko save karo. Iss file 
+ko same folder mein save karo jisme aap apne python ka code likhne waali file ko save
+karoge. Ab yeh code likh kar python file chalao:
